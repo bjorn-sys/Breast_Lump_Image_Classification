@@ -13,10 +13,6 @@ The data collected at baseline include breast ultrasound images among women in a
 ---
 A state-of-the-art deep learning system for automated classification of breast ultrasound images into three clinical categories: Benign, Malignant, and Normal. This comprehensive AI diagnostic tool leverages transfer learning with ResNet50 architecture to achieve exceptional performance in medical image analysis.
 
-https://img.shields.io/badge/Medical-AI%2520Diagnostics-blue
-https://img.shields.io/badge/Accuracy-95%2525-success
-https://img.shields.io/badge/PyTorch-2.0+-red
-https://img.shields.io/badge/Python-3.8+-blue
 
 **🎯 Key Features**
 ---
