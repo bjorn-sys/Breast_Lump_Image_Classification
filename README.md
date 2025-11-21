@@ -99,13 +99,15 @@ Validation Monitoring: Continuous performance assessment
 
 Model Checkpointing: Best weight preservation
 
-📈 Dataset Information
+**📈 Dataset Information**
+---
 Source and Composition
 Primary Dataset: Breast Ultrasound Images (BUSI) Dataset
 
 Total Studies: 1,578 ultrasound images
 
-Class Distribution:
+**Class Distribution:**
+---
 
 Benign: 711 images (56.3%)
 
@@ -115,7 +117,8 @@ Normal: 213 images (16.9%)
 
 Split Strategy: 80% training, 20% validation
 
-Data Quality Assurance
+**Data Quality Assurance**
+---
 Medical Validation: Clinically verified annotations
 
 Image Diversity: Various ultrasound machines and settings
@@ -124,7 +127,8 @@ Quality Standards: Professional medical imaging protocols
 
 Ethical Compliance: Patient privacy and data security
 
-🚀 Installation & Deployment
+**🚀 Installation & Deployment**
+---
 System Requirements
 Python: 3.8 or higher
 
