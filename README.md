@@ -68,7 +68,8 @@ Training Duration: 51 epochs (early stopping)
 
 Model Stability: Consistent performance across validation sets
 
-🏗️ System Architecture
+**🏗️ System Architecture**
+---
 Data Processing Pipeline
 Image Standardization: RGB conversion and resolution normalization
 
@@ -78,7 +79,8 @@ Quality Control: Automated validation of input images
 
 Preprocessing: Medical image-specific normalization
 
-Model Configuration
+**Model Configuration**
+---
 Base Architecture: ResNet50 with pre-trained ImageNet weights
 
 Custom Classification Head: 3-class output layer
@@ -87,7 +89,8 @@ Optimization Strategy: Adam optimizer with learning rate scheduling
 
 Loss Management: Class-weighted cross-entropy for imbalance handling
 
-Training Methodology
+**Training Methodology**
+---
 Early Stopping: 20-epoch patience for optimal generalization
 
 Learning Rate Decay: Step-wise reduction for fine-tuning
